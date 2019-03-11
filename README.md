@@ -2,7 +2,7 @@
 
 > ### The best projects sell themselves
 
-A checklist to make sure your project succeeds!
+A checklist for successful projects
 
 ## 🎨 Initial Presentation
 
