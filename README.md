@@ -1,10 +1,14 @@
 # project-checklist
 
-A Checklist for Good Projects
+> ### The best projects sell themselves
+
+A checklist to make sure your project succeeds!
 
 ## 🎨 Initial Presentation
-- [ ] This is usually the README of your project
-- [ ] Do not list out all the functionalities of your project as the first thing in the README
+
+This is usually the `README` of your project
+
+- [ ] Don't list out all the functionalities of your project as the first thing in the README
     - [ ] Showing users all the options they can do with something will confuse them
         - [ ] Example
         - [ ] The first example you show should be the absolute most basic example that is working and copy-and-paste-able. 
@@ -20,6 +24,7 @@ A Checklist for Good Projects
 - [ ] Examples should be interactive as well. Consider using codesandbox to provide live and runnable demos
 
 ## 🧹 Code Conventions
+
 - [ ] Don’t use meaningless variable names, examples
 - [ ] Provide examples at are going to be similar to what users will use your library for
 - [ ] If you are making an assertion library, don’t make examples like so:
@@ -30,10 +35,12 @@ A Checklist for Good Projects
 - [ ] In projects are too complex to have standalone examples, at the least they can have standalone environments that they can run their examples in. Docker, for example, can be used to implement this well. Users can spin up a docker container and run their examples in the container instead of spending time getting their own environment set up
 
 ## 💯 Project Quality
+
 - [ ] Be your own user. If you’re making a library, build an app that uses it. See what you like and dislike about your library from the perspective of a user.
 - [ ] Before MVP, all tests should be passing and docs with examples should be written and made available
 
 ## 👑  Branding
+
 - [ ] Make your project unique and memorable (most people only focus on technical aspects of a project). While this is important, this should be done close to finishing the MVP of a project
 - [ ] Naming your project
     - [ ] Name your project something that is easy to remember
@@ -57,9 +64,11 @@ A Checklist for Good Projects
     - [ ] If you want to learn more about marketing, see LisaDziuba/Marketing-for-Engineers
 
 ## ✈️ Onboarding Methods
+
 - [ ] Provide the most “native” ways of on boarding people
 
 ## Optional
+
 - [ ] Related sections
     - [ ] Listing projects that are related to your projects can help users with discovering other related projects
     - [ ] This is mostly for the purpose of spreading awareness and improving the connectedness of the community
