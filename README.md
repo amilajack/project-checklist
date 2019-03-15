@@ -18,7 +18,7 @@ Think of the `README` as the elevator pitch for your project. Keep it concise an
 - [x] Start by showing the most common functionalities first. If you project is an API, only initially show examples of the most common APIs that are used. If your project is an app, show screenshots of the pages that are most commonly used
 - [x] Include a live demo. A video is a thousand pictures and a picture is a thousand words.
   * Recommendations
-    * [asciinema.org](asciinema.org) is recommended to record these
+    * [asciinema.org](https://asciinema.org) is recommended to record these
   * Examples
     * [lint-staged](https://github.com/okonet/lint-staged#-lint-staged----)
     * [eslint-plugin-compat](https://www.github.com/amilajack/eslint-plugin-compat#eslint-plugin-compat)
