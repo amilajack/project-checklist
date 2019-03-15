@@ -127,6 +127,16 @@ Using standard code conventions and infrastructure lowers the barrier for people
 * Specific for Apps / Products
 - [x] Submit project to [Product Hunt](https://www.producthunt.com)
 
+To maintain communication with existing users, use a newsletter. Consider using [mailchimp](https://mailchimp.com) for this.
+
+## 🤑 Funding
+
+* Open Collective
+* Patreon
+* Bug Bounties with [Issue Hunt](https://issuehunt.io)
+* More details
+  * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
+
 ## Optional
 
 - [x] Mention Related Projects
