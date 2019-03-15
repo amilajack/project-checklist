@@ -120,20 +120,20 @@ Using standard code conventions and infrastructure lowers the barrier for people
 ## ️📣 Spread the Word
 
 * General Projects
-- [x] Submit project to [Changelog News](https://changelog.com/news/submit)
-- [x] Submit project to [Hacker News](https://news.ycombinator.com/submit)
-- [x] Post on [twitter](https://twitter.com) and upload images of project
+  - [x] Submit project to [Changelog News](https://changelog.com/news/submit)
+  - [x] Submit project to [Hacker News](https://news.ycombinator.com/submit)
+  - [x] Post on [twitter](https://twitter.com) and upload images of project
 
 * Specific for Apps / Products
-- [x] Submit project to [Product Hunt](https://www.producthunt.com)
+  - [x] Submit project to [Product Hunt](https://www.producthunt.com)
 
 To maintain communication with existing users, use a newsletter. Consider using [mailchimp](https://mailchimp.com) for this.
 
 ## 🤑 Funding
 
-* Open Collective
-* Patreon
-* Bug Bounties with [Issue Hunt](https://issuehunt.io)
+* [Open Collective](https://opencollective.com): Ideal for large projects with many users
+* [Patreon](http://patreon.com): Ideal for developers with many projects
+* [Issue Hunt](https://issuehunt.io): Ideal for popular projects with many users and high priority bugs
 * More details
   * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
 
