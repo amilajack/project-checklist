@@ -1,10 +1,11 @@
 ![logo](logo.png)
 
-# project-checklist
+<h1 align="center">project-checklist</h1>
+<h3 align="center">A checklist for successful projects</h3>
+
 
 > ### The best projects sell themselves
 
-## A checklist for successful projects
 
 ## 🎨 Initial Presentation
 
