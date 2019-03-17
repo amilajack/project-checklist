@@ -125,6 +125,7 @@ Using standard code conventions and infrastructure lowers the barrier for people
 * General Projects
   - [x] Submit project to [Changelog News](https://changelog.com/news/submit)
   - [x] Submit project to [Hacker News](https://news.ycombinator.com/submit)
+  - [x] If web related, submit to [dev.to](https://dev.to)
   - [x] Post on [twitter](https://twitter.com) and upload images of project
   - [x] Post to corresponding reddit programming language community [/r/javsascript](https://www.reddit.com/r/javascript), [/r/python](https://www.reddit.com/r/python), etc
 
