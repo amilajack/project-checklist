@@ -127,7 +127,7 @@ Using standard code conventions and infrastructure lowers the barrier for people
   - [x] Submit project to [Hacker News](https://news.ycombinator.com/submit)
   - [x] If web related, submit to [dev.to](https://dev.to)
   - [x] Post on [twitter](https://twitter.com) and upload images of project
-  - [x] Post to corresponding reddit programming language community [/r/javsascript](https://www.reddit.com/r/javascript), [/r/python](https://www.reddit.com/r/python), etc
+  - [x] Post to corresponding reddit programming language community [/r/javascript](https://www.reddit.com/r/javascript), [/r/python](https://www.reddit.com/r/python), etc
 
 * Specific for Apps / Products
   - [x] Submit project to [Product Hunt](https://www.producthunt.com)
