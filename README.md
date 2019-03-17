@@ -1,8 +1,10 @@
+![logo](logo.png)
+
 # project-checklist
 
 > ### The best projects sell themselves
 
-A checklist for successful projects
+## A checklist for successful projects
 
 ## 🎨 Initial Presentation
 
