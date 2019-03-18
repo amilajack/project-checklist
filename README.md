@@ -18,15 +18,15 @@ Think of the `README` as the elevator pitch for your project. Keep it concise an
     * My definition of simplicity: something is simple when there is nothing left to take away from it
     * Don’t initially show users multiple ways of doing something. Show them only one way of doing it. Be careful which way you show them. Choose the way that will most use most of the time
     * It’s tempting to show your users all the things they can do with your project. In many cases, however, this will intimidate users (especially those that are new to the idea or the ecosystem)
-- [x] Start by showing the most common functionalities first. If you project is an API, only initially show examples of the most common APIs that are used. If your project is an app, show screenshots of the pages that are most commonly used
-- [x] Include a live demo. A video is a thousand pictures and a picture is a thousand words.
+- [x] Start by showing the most common functionalities first. If your project is an API, only initially show examples of the most common APIs that are used. If your project is an app, show screenshots of the pages that are most commonly used
+- [x] Include a live demo. A video is a thousand pictures and a picture is a thousand words
   * Recommendations
     * [asciinema.org](https://asciinema.org) is recommended to record these
   * Examples
     * [lint-staged](https://github.com/okonet/lint-staged#-lint-staged----)
     * [eslint-plugin-compat](https://www.github.com/amilajack/eslint-plugin-compat#eslint-plugin-compat)
 - [x] Communicate your [Value Proposition](#value-proposition)
-- [x] Provide interactive examples. Having ready and runnable examples lowers the barrier to using and testing our your project.
+- [x] Provide interactive examples. Having ready and runnable examples lowers the barrier to using and testing out your project
   * Recommendations
     * General Programs: consider using [replit](http://repl.it) to provide live and runnable demos
     * Web Libraries: consider using [codesandbox](https://codesandbox.io) to provide live and runnable demos. For [node](https://nodejs.org), consider running them in [runkit](https://runkit.com)
@@ -45,7 +45,7 @@ Figure out the value your project brings to your users. What does it provide the
 
 * Recommendations
   * A value proposition can have multiple propositions
-  * Having better performance than competing projects usually isn't enough to convice people to use your project. If you are using better performance as your only value proposition, consider adding other value propositions (see [the tweet](https://twitter.com/sebmck/status/1105189411690405892)).
+  * Having better performance than competing projects usually isn't enough to convince people to use your project. If you are using better performance as your only value proposition, consider adding other value propositions (see [the tweet](https://twitter.com/sebmck/status/1105189411690405892)).
 
 - [x] Decide what your value proposition is
 - [x] Communicate your value proposition in your `README` and in your tagline
@@ -54,7 +54,7 @@ Figure out the value your project brings to your users. What does it provide the
 
 High quality projects are much more likely to retain users over time
 
-- [x] Be your own user. If you’re making a library, build an app that uses it. See what you like and dislike about your library from the perspective of a user.
+- [x] Be your own user. If you’re making a library, build an app that uses it. See what you like and dislike about your library from the perspective of a user
 - [x] Before [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (minimum viable product), all tests should be passing and docs with examples should be written and made available
 
 ## 👑  Branding
@@ -111,13 +111,13 @@ In general, here's how this works: say you have library `y` that competes with p
 
 Using standard code conventions and infrastructure lowers the barrier for people that want to contribute to your project. This sometimes translates to more contributors over time because initial contributors sometimes become long term contributors
 
-- [x] Don’t use meaningless variable names, examples
+- [x] Don’t use meaningless variable names or examples
 - [x] Provide examples at are going to be similar to what users will use your library for
 - [x] If you are making an assertion library, don’t make examples like so:
   - [x] Bad: foo = checkIsUsername(a)
   - [x] Better: username = checkIsUsername(user.username)
 - [x] All examples should be standalone
-- [x] A lot of users copy and paste examples just to see if they can get your project working. Having examples that can be copy and pasted and gotten working will lower the barrier to new users.
+- [x] A lot of users copy and paste examples just to see if they can get your project working. Having examples that can be copy and pasted and gotten working will lower the barrier to new users
 - [x] In projects are too complex to have standalone examples, at the least they can have standalone environments that they can run their examples in. Docker, for example, can be used to implement this well. Users can spin up a docker container and run their examples in the container instead of spending time getting their own environment set up
 
 ## ️📣 Spread the Word
