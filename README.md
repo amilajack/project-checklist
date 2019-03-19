@@ -144,16 +144,18 @@ Using standard code conventions and infrastructure lowers the barrier for people
 
 To maintain communication with existing users, use a newsletter. Consider using [mailchimp](https://mailchimp.com) for this. Be aware that once communication becomes more fluid, you might create support expectations so it becomes critical to [understand open source support systems](https://nadiaeghbal.com/user-support).
 
-## 🤑 Funding
+## 🤑 Business model
 
-<!-- TODO: Discussion on business models, probably bringing lemonade-stand up here. -->
+While funding might certainly be a pressing concern, it's important to decouple immediate funding needs/expectations from business models.
+
+Nadia Eghbal's [lemonade-stand](https://github.com/nayafia/lemonade-stand) is a very approachable walkthrough of business models as often found in the wild applied to open source projects.
+
+Here are some funding-related resources:
 
 * [Open Collective](https://opencollective.com): Ideal for large projects with many users
 * [Patreon](http://patreon.com): Ideal for developers with many projects
 * [Issue Hunt](https://issuehunt.io): Ideal for popular projects with many users and high priority bugs
-* More details
-  * [oss.cash](http://oss.cash) for a comprehensive list of funding mechanisms
-  * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
+* And [oss.cash](http://oss.cash) for a comprehensive list of funding mechanisms
 
 ## Optional
 
