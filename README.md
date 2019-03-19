@@ -45,6 +45,7 @@ Figure out the value your project brings to your users. What does it provide the
 
 * Recommendations
   * A value proposition can have multiple propositions
+  * [Writing down a market positioning statement](http://blog.ecornell.com/how-to-write-market-positioning-statements/) or statements can help with clarity, business goals, marketing and more
   * Having better performance than competing projects usually isn't enough to convince people to use your project. If you are using better performance as your only value proposition, consider adding other value propositions (see [the tweet](https://twitter.com/sebmck/status/1105189411690405892)).
 
 - [x] Decide what your value proposition is
