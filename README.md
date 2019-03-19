@@ -136,10 +136,13 @@ To maintain communication with existing users, use a newsletter. Consider using 
 
 ## 🤑 Funding
 
+<!-- TODO: Discussion on business models, probably bringing lemonade-stand up here. -->
+
 * [Open Collective](https://opencollective.com): Ideal for large projects with many users
 * [Patreon](http://patreon.com): Ideal for developers with many projects
 * [Issue Hunt](https://issuehunt.io): Ideal for popular projects with many users and high priority bugs
 * More details
+  * [oss.cash](http://oss.cash) for a comprehensive list of funding mechanisms
   * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
 
 ## Optional
