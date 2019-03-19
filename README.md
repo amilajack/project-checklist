@@ -98,7 +98,7 @@ Make your project unique and memorable (most people only focus on technical aspe
 - [x] Further reading
   * If you want to learn more about marketing, see [LisaDziuba/Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
-## ✈️ Onboarding Methods
+## ✈️ Entry Barriers
 
 Lower the barrier to entry by providing the most “native” ways of on boarding people. Make it as easy as possible for users of competing projects to start using your project.
 
@@ -107,6 +107,10 @@ In general, here's how this works: say you have library `y` that competes with p
 * Examples
   * [Figma](http://figma.com), a vector graphics editor, gained users by allowing [Sketch](http://sketchapp.com) users to import Sketch files into Figma
   * [Laravel](http://laravel.com) onboarded many [Rails](https://rubyonrails.org) users by providing terminology and conventions that were similar to [Rails](https://rubyonrails.org)
+
+In general, you can't expect your users to _engage_ in your project if the barriers are as high for them as they were for you as the original developer.
+
+Can your development environment be _easily_ replicated by your users? Can they build your software and get started as easily as you can as the upstream developer? Think cross-platform: can someone on a Mac, or Linux, or Windows Subsystem for Linux build and use your software? And do you show the build status for all of those platforms? What about someone doing that in a VM? Or a container? Or a different version of Python? Or with no `sudo` access? 
 
 ## 🧹 Code Conventions and Infrastructure
 
