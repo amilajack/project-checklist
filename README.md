@@ -108,9 +108,13 @@ In general, here's how this works: say you have library `y` that competes with p
   * [Figma](http://figma.com), a vector graphics editor, gained users by allowing [Sketch](http://sketchapp.com) users to import Sketch files into Figma
   * [Laravel](http://laravel.com) onboarded many [Rails](https://rubyonrails.org) users by providing terminology and conventions that were similar to [Rails](https://rubyonrails.org)
 
-In general, you can't expect your users to _engage_ in your project if the barriers are as high for them as they were for you as the original developer.
+In general, you can't expect your users to _engage_ in your project if the barriers are as high for them as they were for you as the original developer. Here are some additional ideas:
 
-Can your development environment be _easily_ replicated by your users? Can they build your software and get started as easily as you can as the upstream developer? Think cross-platform: can someone on a Mac, or Linux, or Windows Subsystem for Linux build and use your software? And do you show the build status for all of those platforms? What about someone doing that in a VM? Or a container? Or a different version of Python? Or with no `sudo` access? 
+* Can your development environment be _easily_ replicated by your users?
+* Can they build your software and get started as easily as you can as the upstream developer?
+  * Think cross-platform: can someone on a Mac, or Linux, or Windows Subsystem for Linux build and use your software? And do you show the build status for all of those platforms?
+  * What about someone doing that in a VM? Or a container? Or a different version of Python? Or with no `sudo` access?
+* How will users get your bits, and how will they keep them updated? For libraries, this is "easier" (npm, pypi, etc.) but often times users can benefit from other methods including native packages, Homebrew or in some cases even `curl | sh`.
 
 ## 🧹 Code Conventions and Infrastructure
 
