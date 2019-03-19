@@ -128,11 +128,12 @@ Using standard code conventions and infrastructure lowers the barrier for people
   - [x] If web related, submit to [dev.to](https://dev.to)
   - [x] Post on [twitter](https://twitter.com) and upload images of project
   - [x] Post to corresponding reddit programming language community [/r/javascript](https://www.reddit.com/r/javascript), [/r/python](https://www.reddit.com/r/python), etc
+  - [x] When appropriate, consider [talking about your project publicly](https://github.com/vmbrasseur/Public_Speaking)
 
 * Specific for Apps / Products
   - [x] Submit project to [Product Hunt](https://www.producthunt.com)
 
-To maintain communication with existing users, use a newsletter. Consider using [mailchimp](https://mailchimp.com) for this.
+To maintain communication with existing users, use a newsletter. Consider using [mailchimp](https://mailchimp.com) for this. Be aware that once communication becomes more fluid, you might create support expectations so it becomes critical to [understand open source support systems](https://nadiaeghbal.com/user-support).
 
 ## 🤑 Funding
 
