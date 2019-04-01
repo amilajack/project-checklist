@@ -139,6 +139,7 @@ Using standard code conventions and infrastructure lowers the barrier for people
   - [x] Post on [twitter](https://twitter.com) and upload images of project
   - [x] Post to corresponding reddit programming language community [/r/javascript](https://www.reddit.com/r/javascript), [/r/python](https://www.reddit.com/r/python), etc
   - [x] When appropriate, consider [talking about your project publicly](https://github.com/vmbrasseur/Public_Speaking)
+    - [x] Review the [Writing and performing a great conference presentation](https://archive.org/details/dodseattle2019-presentation-training) talk
 
 * Specific for Apps / Products
   - [x] Submit project to [Product Hunt](https://www.producthunt.com)
