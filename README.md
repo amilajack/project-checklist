@@ -77,6 +77,7 @@ Make your project unique and memorable (most people only focus on technical aspe
         * ”face-book“
         * ”web-pack“
     * Don’t worry too much about choosing a name and having a package with that name already take. If your project becomes more popular than the project that has taken the name already, the owner of the package will usually give you the package name if not too many people are depending on it
+    * Some additional resources on [this excellent thread](https://twitter.com/clairegiordano/status/1112558126400598016) by Claire Giordano
 - [x] Add a tagline
   * Recommendations
     * Avoid wordy taglines--they are hard to remember and understand
