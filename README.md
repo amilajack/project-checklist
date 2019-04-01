@@ -98,6 +98,7 @@ Make your project unique and memorable (most people only focus on technical aspe
     * Make sure your docs and website follow this color theme
 - [x] Further reading
   * If you want to learn more about marketing, see [LisaDziuba/Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) and/or reach out to some open source marketing leaders such as [@kamcmahon](https://twitter.com/kamcmahon). [@jenlankford](https://twitter.com/jenlankford), [@amanda_katona](https://twitter.com/amanda_katona), [@FunnelFiasco](https://twitter.com/funnelfiasco) or [@Jen_L_Gray](https://twitter.com/jen_l_gray).
+    * And here's an excellent article on [open source project marketing](https://www.techrepublic.com/blog/10-things/why-your-open-source-project-really-needs-marketing/)
 
 ## ✈️ Entry Barriers
 
