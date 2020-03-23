@@ -136,9 +136,9 @@ To maintain communication with existing users, use a newsletter. Consider using 
 
 ## 🤑 Funding
 
-- [ ] [Create an Open Collective](https://opencollective.com): Ideal for large projects with many users
-- [ ] [Create a Patreon](http://patreon.com): Ideal for developers with many projects
-- [ ] [Apply for Grants](https://github.com/sakofchit/fund-my-project)
+- [x] [Create an Open Collective](https://opencollective.com): Ideal for large projects with many users
+- [x] [Create a Patreon](http://patreon.com): Ideal for developers with many projects
+- [x] [Apply for Grants](https://github.com/sakofchit/fund-my-project)
 * More details
   * [lemonade-stand](https://github.com/nayafia/lemonade-stand)
 
