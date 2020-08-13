@@ -16,7 +16,7 @@ Think of the `README` as the elevator pitch for your project. Keep it concise an
     * Showing users all the options they can do with something will confuse and/or overwhelm them
     * The first example you show should be the absolute most basic example that is working and copy-and-paste-able. 
     * My definition of simplicity: something is simple when there is nothing left to take away from it
-    * Don’t initially show users multiple ways of doing something. Show them only one way of doing it. Be careful which way you show them. Choose the way that will most use most of the time
+    * Don’t initially show users multiple ways of doing something. Show them only one way of doing it. Be careful which way you show them. Choose the way that they will use most of the time
     * It’s tempting to show your users all the things they can do with your project. In many cases, however, this will intimidate users (especially those that are new to the idea or the ecosystem)
 - [x] Start by showing the most common functionalities first. If your project is an API, only initially show examples of the most common APIs that are used. If your project is an app, show screenshots of the pages that are most commonly used
 - [x] Include a live demo. A video is a thousand pictures and a picture is a thousand words
@@ -75,7 +75,7 @@ Make your project unique and memorable (most people only focus on technical aspe
         * ”micro-soft“
         * ”face-book“
         * ”web-pack“
-    * Don’t worry too much about choosing a name and having a package with that name already take. If your project becomes more popular than the project that has taken the name already, the owner of the package will usually give you the package name if not too many people are depending on it
+    * Don’t worry too much about choosing a name and having a package with that name already taken. If your project becomes more popular than the project that has taken the name already, the owner of the package will usually give you the package name if not too many people are depending on it
 - [x] Add a tagline
   * Recommendations
     * Avoid wordy taglines--they are hard to remember and understand
@@ -99,7 +99,7 @@ Make your project unique and memorable (most people only focus on technical aspe
 
 ## ✈️ Onboarding Methods
 
-Lower the barrier to entry by providing the most “native” ways of on boarding people. Make it as easy as possible for users of competing projects to start using your project.
+Lower the barrier to entry by providing the most “native” ways of onboarding people. Make it as easy as possible for users of competing projects to start using your project.
 
 In general, here's how this works: say you have library `y` that competes with popular libray `x`, write documentation for a migration path from library `x` to `y`.
 
@@ -112,13 +112,13 @@ In general, here's how this works: say you have library `y` that competes with p
 Using standard code conventions and infrastructure lowers the barrier for people that want to contribute to your project. This sometimes translates to more contributors over time because initial contributors sometimes become long term contributors
 
 - [x] Don’t use meaningless variable names or examples
-- [x] Provide examples at are going to be similar to what users will use your library for
+- [x] Provide examples that are going to be similar to what users will use your library for
 - [x] If you are making an assertion library, don’t make examples like so:
   - [x] Bad: foo = checkIsUsername(a)
   - [x] Better: username = checkIsUsername(user.username)
 - [x] All examples should be standalone
 - [x] A lot of users copy and paste examples just to see if they can get your project working. Having examples that can be copy and pasted and gotten working will lower the barrier to new users
-- [x] In projects are too complex to have standalone examples, at the least they can have standalone environments that they can run their examples in. Docker, for example, can be used to implement this well. Users can spin up a docker container and run their examples in the container instead of spending time getting their own environment set up
+- [x] In projects that are too complex to have standalone examples, at the least they can have standalone environments that they can run their examples in. Docker, for example, can be used to implement this well. Users can spin up a docker container and run their examples in the container instead of spending time getting their own environment set up
 
 ## ️📣 Spread the Word
 
